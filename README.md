@@ -1,2 +1,3 @@
 # SystemCrasher
-Critical Vunrability in EMUI 15 yes i will document it soon
+Critical Vunrability in EMUI 15
+ive decided to not document it for safety
